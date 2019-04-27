@@ -1,0 +1,40 @@
+.title {
+  color: dimgray;
+  border-bottom: 7px solid black;
+  width: 500px;
+  padding-top: 90px;
+}
+
+.header-logo {
+  font-size: 20px;
+  padding: 27px 30px 50px 5px;
+  float:left;
+}
+
+.header-list li {
+  list-style: none;
+  padding-left: 100px;
+  padding-top: 30px;
+  float: left;
+  border-bottom: 5px;
+}
+
+.header {
+  background-color: aquamarine;
+  height: 80px;
+}
+
+span {
+  color:red;
+}
+
+.footer {
+  position: fixed;;
+  background-color: blue;
+  height:270px;
+}
+
+.main {
+  position:relative
+  paddingbottom: 100px;
+}
